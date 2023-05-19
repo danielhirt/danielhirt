@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel! I code for fun and for money! Professionally I build low-code application development platforms, RPA, and process mining systems in Java, Golang and TypeScript.
+- 👋 Hi, I’m Daniel! I code for fun and for money!
 - 👀 I’m interested in the emerging web technologies, the [T3 Stack](https://create.t3.gg/), Rust and databases.
 - 🌱 I’m currently learning Golang & Rust 
 - 📫 How to reach me: Email: danielchirt16@gmail.com
