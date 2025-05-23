@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Daniel! I code for fun and for money!
 - 👀 I’m interested in new databases, AI, and Rust/Zig.
-- 🌱 I’m currently learning Golang & Rust 
+- 🌱 I’m currently learning Golang & Rust
+- 💻 I'm currently building CipherSeal
 - 📫 How to reach me: Email: danielchirt16@gmail.com
 
 <!---
