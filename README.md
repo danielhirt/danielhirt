@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Daniel! I code for fun and for money!
-- 👀 I’m interested in hardware/systems programming, quantitative trading, AI, and new databases.
-- 🌱 I’m currently learning high performance C++ and Golang.
-- 💻 I'm currently building CipherSeal and jellyfish
-- 📫 How to reach me: Email: danielchirt16@gmail.com
+# Hey, I'm Daniel
 
-<!---
-danielhirt/danielhirt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior software engineer in DC. I build developer tools and databases, and write about AI, performant code, and database internals.
+
+## What I'm Building
+
+**[kedge](https://github.com/danielhirt/kedge)** — Rust CLI that detects documentation drift using tree-sitter AST fingerprinting, then invokes AI agents to fix outdated docs and open merge requests. Supports Java, Go, TypeScript, Python, Rust, and XML.
+
+**[jellyfish](https://github.com/danielhirt/jellyfish)** — In-memory key-value store written from scratch in Go that speaks the Redis protocol. ACID transactions, append-only file persistence, and vector search — zero external dependencies.
+
+## What I Write About
+
+AI-assisted development, performant code, and database deep dives on my [blog](https://danielhirt.dev/blog).
+
+- [I'm More Productive Than Ever. So Why Am I Anxious?](https://danielhirt.dev/blog/productive-and-anxious/) — on the paradox of AI-powered productivity and career anxiety
+
+---
+
+More projects and writing at [danielhirt.dev](https://danielhirt.dev).
