@@ -12,6 +12,8 @@ Senior software engineer in DC. I build developer tools and databases, and write
 
 Performance, databases, and AI on my [blog](https://danielhirt.dev/blog).
 
+- [Building Sidekick: How I Used AI to Fix Incident Response](https://danielhirt.dev/blog/building-sidekick/)
+- [AI Anxiety to Agency](https://danielhirt.dev/blog/ai-anxiety-to-agency/)
 - [I'm More Productive Than Ever. So Why Am I Anxious?](https://danielhirt.dev/blog/productive-and-anxious/)
 
 ---
