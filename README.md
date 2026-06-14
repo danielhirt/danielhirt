@@ -12,6 +12,7 @@ Senior software engineer in DC. I build developer tools and databases, and write
 
 Performance, databases, and AI on my [blog](https://danielhirt.dev/blog).
 
+- [Uber Burned a Year's AI Coding Budget in Four Months. The Fix Is Boring.](https://danielhirt.dev/blog/ai-cost-routing/)
 - [Building Sidekick: How I Used AI to Fix Incident Response](https://danielhirt.dev/blog/building-sidekick/)
 - [AI Anxiety to Agency](https://danielhirt.dev/blog/ai-anxiety-to-agency/)
 - [I'm More Productive Than Ever. So Why Am I Anxious?](https://danielhirt.dev/blog/productive-and-anxious/)
