@@ -1,6 +1,6 @@
 ### Hey, I'm Daniel
 
-Senior software engineer in DC. I build developer tools and databases, and write about performance and AI.
+Senior software engineer in DC. I build developer tools and AI harnesses.
 
 ### Building
 
