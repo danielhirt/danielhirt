@@ -1,6 +1,6 @@
 ### Hey, I'm Daniel
 
-Senior software engineer in DC. Passionate about data at scale and harnessing AI for developer productivity. Currently building enterprise AI harnesses and data connectivity.
+Technical leader in Washington, DC. Passionate about harnessing AI for developer productivity. Currently building enterprise AI harnesses and data connectivity.
 
 ### Writing
 
