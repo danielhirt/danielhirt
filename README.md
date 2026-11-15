@@ -16,3 +16,4 @@ DX, agentic development and AI on my [blog](https://danielhirt.dev/blog).
 ---
 
 [danielhirt.dev](https://danielhirt.dev)
+[Inner Loop YouTube Channel](https://www.youtube.com/@innerloopdev)
