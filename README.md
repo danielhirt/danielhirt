@@ -14,6 +14,7 @@ DX, agentic development and AI on my [blog](https://danielhirt.dev/blog).
 - [I'm More Productive Than Ever. So Why Am I Anxious?](https://danielhirt.dev/blog/productive-and-anxious/)
 
 ---
+Personal site and other work:
 
-[danielhirt.dev](https://danielhirt.dev)
-[Inner Loop YouTube Channel](https://www.youtube.com/@innerloopdev)
+- [danielhirt.dev](https://danielhirt.dev)
+- [Inner Loop YouTube Channel](https://www.youtube.com/@innerloopdev)
