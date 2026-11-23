@@ -8,7 +8,6 @@ DX, agentic development and AI on my [blog](https://danielhirt.dev/blog).
 
 - [It Just Shows Up](https://danielhirt.dev/blog/it-just-shows-up/)
 - [The AI Native Company](https://danielhirt.dev/ai-native-company.html)
-- [Uber Burned a Year's AI Coding Budget in Four Months. The Fix Is Boring.](https://danielhirt.dev/blog/ai-cost-routing/)
 - [Building Sidekick: How I Used AI to Fix Incident Response](https://danielhirt.dev/blog/building-sidekick/)
 - [AI Anxiety to Agency](https://danielhirt.dev/blog/ai-anxiety-to-agency/)
 - [I'm More Productive Than Ever. So Why Am I Anxious?](https://danielhirt.dev/blog/productive-and-anxious/)
